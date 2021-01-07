@@ -1,0 +1,48 @@
+body{
+  text-align: center;
+  margin: 0;
+  font-family: 'Merriweather', serif;
+}
+h1 {
+  font-size: 5rem;
+  width: 10%;
+  margin: 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+font-family: 'Montserrat', sans-serif;
+font-size: 2.5rem;
+}
+h3 {
+font-family: 'Montserrat', sans-serif;
+}
+
+.top-container{
+  background-color: #adeecf;
+  position: relative;
+  padding-top: 100px;
+
+
+}
+.middle-container{
+background-color: #bedcfa;
+}
+.bottom-container{
+background-color: #707070;
+}
+.contact-me{
+  background-color: #707070;
+}
+.enterprenure{
+  text-decoration: underline;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
